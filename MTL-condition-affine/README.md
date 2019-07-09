@@ -1,4 +1,2 @@
-# CycleGANのGeneratorを用いたMulti Task Learning
-task list<br>
-・denoising<br>
-・inpainting
+# conditional instance normalization layerによるMTL
+conditional instance normalization layerをモデルに追加し，タスクごとにinstance normalization における&alpha;と&gamma;を保存

@@ -11,5 +11,8 @@ labelを用いてconditionを実装した場合(condition)と，学習データ�
   </tr>
 </table>
 <br>
-train.ipynb,valid.ipynb:condition<br>
-train2.ipynb,valid2.ipynb:not condition<br>
+conditionがtrain.ipynb,valid.ipynbに実装されている．<br>
+not conditionがtrain2.ipynb,valid2.ipynbに実装されている．<br>
+<br>
+conditionでラベルを[1,1,0,0]のように複数タスクを混ぜた場合下図のような画像が出力された．<br>
+<img src="./images/mix_noise.png">

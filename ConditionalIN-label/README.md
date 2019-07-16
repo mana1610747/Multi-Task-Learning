@@ -10,3 +10,6 @@ labelを用いてconditionを実装した場合(condition)と，学習データ�
   <td>condition</td><td><img src="./images/condition_paint.png"></td><td><img src="./images/condition_noise.png"></td><td><img src="./images/condition_gaussian.png"></td><td><img src="./images/condition_mosaic.png"></td>
   </tr>
 </table>
+<br>
+train.ipynb,valid.ipynb:condition<br>
+train2.ipynb,valid2.ipynb:not condition<br>
